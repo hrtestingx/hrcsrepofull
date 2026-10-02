@@ -1,16 +1,16 @@
 <div align="center">
 
-# hrcsrepo
+# hrcsrepofull
 
 CloudStream eklenti deposu — derlenmiş `.cs3` eklentileri.
 
 CloudStream'e eklemek için repo bağlantısı:
 
 ```
-https://raw.githubusercontent.com/hrtestingx/hrcsrepo/master/repo.json
+https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/master/repo.json
 ```
 
-`Kısa Kod`: **hrcs**
+`Kısa Kod`: **hrcsfull**
 
 ---
 
